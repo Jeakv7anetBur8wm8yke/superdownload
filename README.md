@@ -1,1 +1,1 @@
-# superdownload
+# SyncSphere - Cross-device synchronization tool
